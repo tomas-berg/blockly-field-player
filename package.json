@@ -1,6 +1,6 @@
 {
   "name": "blockly-field-player",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Blockly audio player field",
   "scripts": {
     "audit:fix": "blockly-scripts auditFix",
